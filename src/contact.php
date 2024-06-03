@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-    <form action="">
+    <form action="traitement.php" method="post">
         <input type="submit" value="ok">
     </form>
 </body>
