@@ -7,6 +7,11 @@
         <header>
             <h1>Super Site !</h1>
         </header>
-        # mot de pass en clair
+        <nav>
+            <ul>
+              
+            <li>Accueil</li>  <li>Entre1</li>  <li>Menu2</li>
+</ul>
+</nav>
     </body>
 </html>
