@@ -5,7 +5,7 @@
     </head>
     <body>
         <header>
-            <h1>Super Site !</h1>
+            <h1>Site de formation</h1>
         </header>
         <nav>
             <ul>
