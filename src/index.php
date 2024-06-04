@@ -13,5 +13,11 @@
             <li>Accueil</li>  <li>Entre1</li>  <li>Menu2</li>
 </ul>
 </nav>
+<footer>
+    <a href="mailto=toto">Me contacter</a>
+</footer>
+
+
+
     </body>
 </html>
