@@ -13,5 +13,14 @@
             <li>Accueil</li>  <li>Entre1</li>  <li>Menu2</li>
 </ul>
 </nav>
+<main>
+    <section id="articles">
+    <article></article>
+    <article></article>
+    <article></article>
+
+</section>
+
+</main>
     </body>
 </html>
