@@ -5,7 +5,7 @@
     </head>
     <body>
         <header>
-            <h1>Titre de master</h1>
+            <h1>Autre titre</h1>
         </header>
         <nav>
             <ul>
